@@ -1,0 +1,9 @@
+/build
+sdkconfig
+sdkconfig.old
+CMakeCache.txt
+*.bin
+*.elf
+*.map
+*.log
+*.pyc
