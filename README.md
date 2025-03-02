@@ -50,8 +50,8 @@ The waveform generation is controlled by two push buttons:
 ## **Hardware Requirements**
 - ESP32-C3-WROOM-02U microcontroller
 - 2x Push buttons
-- 1x Red LED (for DATA signal)
-- 1x Green LED (for SYNC signal)
+- 1x Green LED (for DATA signal)
+- 1x Red LED (for SYNC signal)
 - Resistors (for LEDs and push buttons)
 - Breadboard and jumper wires
 - USB cable for programming and power
