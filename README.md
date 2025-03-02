@@ -1,4 +1,18 @@
 # B31DG-ESP32-C3-Project
+📂 B31DG-Assignment-1
+│── 📂 main          # Source code for Arduino and ESP-IDF
+│   ├── sri_patnala.c      # ESP-IDF C code
+│   ├── sri_patnala_arduino.ino   # Arduino code
+│   │── .gitignore  # Exclude build files, logs, etc.
+│   ├── CMakeLists.txt # ESP-IDF build configuration
+│   ├──idf_component.yml
+│   ├──Kconfig.projbuild
+│   ├──sdkconfig
+│── .gitignore      # Exclude build files, logs, etc.
+│── 📂 docs         # Documentation and report
+│   ├── B31DG-Assignment-1-<StudentNumber>.pdf
+│── README.md       # Explains repository structure
+
 
 # **ESP32-C3-WROOM-02U Waveform Generator**
 
