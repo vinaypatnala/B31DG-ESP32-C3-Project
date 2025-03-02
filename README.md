@@ -9,8 +9,6 @@
 │   ├──Kconfig.projbuild
 │   ├──sdkconfig
 │── .gitignore      # Exclude build files, logs, etc.
-│── 📂 docs         # Documentation and report
-│   ├── B31DG-Assignment-1-<StudentNumber>.pdf
 │── README.md       # Explains repository structure
 
 
